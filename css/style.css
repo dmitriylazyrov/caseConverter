@@ -1,0 +1,35 @@
+html{
+    font-family: "Adobe Ming Std L",  sans-serif;
+    font-size: 30px;
+}
+body{
+    background-color: #a2d2ff;
+}
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    margin: 10px 5px;
+    background-color: #ffb703;
+    font-weight: bold;
+    color: #e63946;
+
+    box-shadow: 10px 5px 20px 0 #fcbf49;
+    border-radius: 10px;
+    border-color: #ffb703;
+}
+textarea{
+    display: block;
+    font-size: 19px;
+    margin: 0 auto;
+}
+.flex-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
